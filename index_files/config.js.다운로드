@@ -1,0 +1,43 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+//var _ATLAN_UPDATE_URL = "https://web.archive.org/web/20131211093309/http://device.atlan.co.kr/_update/";
+var _ATLAN_UPDATE_URL = "https://web.archive.org/web/20131211093309/http://atlan.ofscdn.com/AtlanMap/";
+var _ATLAN_PDS_ASP_URL = "https://web.archive.org/web/20131211093309/http://pds.atlan.co.kr/download.jsp";
+// var _ATLAN_USERFILE_ATT_URL = "https://web.archive.org/web/20131211093309/http://www.atlan.co.kr/modules/filedown/fileDown1.jsp";
+var _ATLAN_USERFILE_ATT_URL = "https://web.archive.org/web/20131211093309/http://userfile.atlan.co.kr/download.jsp";
+
+var _ATLAN_MEMBER_HTTP = "https://web.archive.org/web/20131211093309/http://member.atlan.co.kr";
+var _ATLAN_HOME_HTTP = "https://web.archive.org/web/20131211093309/http://www.atlan.co.kr";
+
+
+}
+/*
+     FILE ARCHIVED ON 09:33:09 Dec 11, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:12:52 May 18, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 152.568
+  exclusion.robots: 0.082
+  exclusion.robots.policy: 0.072
+  RedisCDXSource: 0.603
+  esindex: 0.008
+  LoadShardBlock: 122.967 (3)
+  PetaboxLoader3.datanode: 44.023 (4)
+  PetaboxLoader3.resolve: 130.958 (3)
+  load_resource: 88.917
+*/
